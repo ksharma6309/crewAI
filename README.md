@@ -7,7 +7,7 @@
   <a href="https://trendshift.io/repositories/11239" target="_blank">
     <img src="https://trendshift.io/api/badge/repositories/11239" alt="crewAIInc%2FcrewAI | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/>
   </a>
-</p>
+</p>    
 
 <p align="center">
   <a href="https://crewai.com">Homepage</a>
